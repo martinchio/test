@@ -1,0 +1,255 @@
+2023-08-30T10:19:02.527Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:28:51.417Z [db\index.ts] info: Connected to database
+2023-08-30T10:28:51.420Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:29:32.245Z [db\index.ts] info: Connected to database
+2023-08-30T10:29:32.248Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:35:46.051Z [db\index.ts] info: Connected to database
+2023-08-30T10:35:46.054Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:35:50.033Z [db\index.ts] info: Connected to database
+2023-08-30T10:35:50.035Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:35:53.178Z [db\index.ts] info: Connected to database
+2023-08-30T10:35:53.181Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:36:01.524Z [db\index.ts] info: Connected to database
+2023-08-30T10:36:01.526Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:37:09.775Z [db\index.ts] info: Connected to database
+2023-08-30T10:37:09.777Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:37:13.641Z [db\index.ts] info: Connected to database
+2023-08-30T10:37:13.643Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:37:24.104Z [db\index.ts] info: Connected to database
+2023-08-30T10:37:24.106Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:37:58.006Z [db\index.ts] info: Connected to database
+2023-08-30T10:37:58.008Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:47:00.576Z [db\index.ts] info: Connected to database
+2023-08-30T10:47:00.578Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:47:52.007Z [db\index.ts] info: Connected to database
+2023-08-30T10:47:52.009Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:52:07.284Z [db\index.ts] info: Connected to database
+2023-08-30T10:52:07.287Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:52:37.680Z [db\index.ts] info: Connected to database
+2023-08-30T10:52:37.683Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:52:58.512Z [db\index.ts] info: Connected to database
+2023-08-30T10:52:58.514Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:53:41.589Z [db\index.ts] info: Connected to database
+2023-08-30T10:53:41.591Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:53:48.142Z [db\index.ts] info: Connected to database
+2023-08-30T10:53:48.145Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:55:16.424Z [db\index.ts] info: Connected to database
+2023-08-30T10:55:16.426Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:55:44.408Z [db\index.ts] info: Connected to database
+2023-08-30T10:55:44.410Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:55:51.207Z [db\index.ts] info: Connected to database
+2023-08-30T10:55:51.209Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:55:58.431Z [db\index.ts] info: Connected to database
+2023-08-30T10:55:58.434Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:56:49.686Z [db\index.ts] info: Connected to database
+2023-08-30T10:56:49.688Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:57:04.537Z [db\index.ts] info: Connected to database
+2023-08-30T10:57:04.539Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:57:09.915Z [db\index.ts] info: Connected to database
+2023-08-30T10:57:09.917Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:58:08.352Z [db\index.ts] info: Connected to database
+2023-08-30T10:58:08.354Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:58:31.172Z [db\index.ts] info: Connected to database
+2023-08-30T10:58:31.174Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:58:37.891Z [db\index.ts] info: Connected to database
+2023-08-30T10:58:37.893Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T10:58:48.690Z [db\index.ts] info: Connected to database
+2023-08-30T10:58:48.692Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:01:05.166Z [db\index.ts] info: Connected to database
+2023-08-30T11:01:05.168Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:01:49.569Z [db\index.ts] info: Connected to database
+2023-08-30T11:01:49.571Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:01:52.426Z [db\index.ts] info: Connected to database
+2023-08-30T11:01:52.428Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:02:55.548Z [db\index.ts] info: Connected to database
+2023-08-30T11:02:55.550Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:03:11.242Z [db\index.ts] info: Connected to database
+2023-08-30T11:03:11.244Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:03:33.427Z [db\index.ts] info: Connected to database
+2023-08-30T11:03:33.429Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:05:24.298Z [db\index.ts] info: Connected to database
+2023-08-30T11:05:24.300Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:05:48.619Z [db\index.ts] info: Connected to database
+2023-08-30T11:05:48.621Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:06:29.684Z [db\index.ts] info: Connected to database
+2023-08-30T11:06:29.686Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:06:37.464Z [db\index.ts] info: Connected to database
+2023-08-30T11:06:37.466Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:06:58.778Z [db\index.ts] info: Connected to database
+2023-08-30T11:06:58.780Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:12:29.125Z [db\index.ts] info: Connected to database
+2023-08-30T11:12:29.127Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:12:42.060Z [db\index.ts] info: Connected to database
+2023-08-30T11:12:42.062Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:12:51.814Z [db\index.ts] info: Connected to database
+2023-08-30T11:12:51.816Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:13:14.899Z [db\index.ts] info: Connected to database
+2023-08-30T11:13:14.901Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:16:05.075Z [db\index.ts] info: Connected to database
+2023-08-30T11:16:05.077Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:16:18.882Z [db\index.ts] info: Connected to database
+2023-08-30T11:16:18.885Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:16:59.769Z [db\index.ts] info: Connected to database
+2023-08-30T11:16:59.772Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:18:46.230Z [db\index.ts] info: Connected to database
+2023-08-30T11:18:46.233Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:20:17.647Z [db\index.ts] info: Connected to database
+2023-08-30T11:20:17.650Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:20:42.280Z [db\index.ts] info: Connected to database
+2023-08-30T11:20:42.282Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:21:03.535Z [db\index.ts] info: Connected to database
+2023-08-30T11:21:03.537Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:21:51.977Z [db\index.ts] info: Connected to database
+2023-08-30T11:21:51.980Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:22:43.088Z [db\index.ts] info: Connected to database
+2023-08-30T11:22:43.090Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T11:23:15.591Z [db\index.ts] info: Connected to database
+2023-08-30T11:23:15.593Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:07:54.607Z [db\index.ts] info: Connected to database
+2023-08-30T13:07:54.609Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:29:00.060Z [db\index.ts] info: Connected to database
+2023-08-30T13:29:00.062Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:29:32.009Z [db\index.ts] info: Connected to database
+2023-08-30T13:29:32.011Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:30:40.517Z [db\index.ts] info: Connected to database
+2023-08-30T13:30:40.519Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:30:46.712Z [db\index.ts] info: Connected to database
+2023-08-30T13:30:46.714Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:30:57.139Z [db\index.ts] info: Connected to database
+2023-08-30T13:30:57.141Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:31:03.747Z [db\index.ts] info: Connected to database
+2023-08-30T13:31:03.749Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:31:15.566Z [db\index.ts] info: Connected to database
+2023-08-30T13:31:15.569Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:31:34.034Z [db\index.ts] info: Connected to database
+2023-08-30T13:31:34.037Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:32:05.184Z [db\index.ts] info: Connected to database
+2023-08-30T13:32:05.186Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:32:14.377Z [db\index.ts] info: Connected to database
+2023-08-30T13:32:14.379Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:32:31.462Z [db\index.ts] info: Connected to database
+2023-08-30T13:32:31.465Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:32:40.094Z [db\index.ts] info: Connected to database
+2023-08-30T13:32:40.096Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:36:28.367Z [db\index.ts] info: Connected to database
+2023-08-30T13:36:28.369Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:37:00.985Z [db\index.ts] info: Connected to database
+2023-08-30T13:37:00.988Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:37:16.096Z [db\index.ts] info: Connected to database
+2023-08-30T13:37:16.098Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:38:14.089Z [db\index.ts] info: Connected to database
+2023-08-30T13:38:14.091Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T13:41:22.143Z [db\index.ts] info: Connected to database
+2023-08-30T13:41:22.145Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:11:53.839Z [db\index.ts] info: Connected to database
+2023-08-30T14:11:53.841Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:12:32.404Z [db\index.ts] info: Connected to database
+2023-08-30T14:12:32.406Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:13:16.171Z [db\index.ts] info: Connected to database
+2023-08-30T14:13:16.174Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:20:49.844Z [db\index.ts] info: Connected to database
+2023-08-30T14:20:49.846Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:21:52.277Z [db\index.ts] info: Connected to database
+2023-08-30T14:21:52.280Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:23:38.193Z [db\index.ts] info: Connected to database
+2023-08-30T14:23:38.195Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:23:46.730Z [db\index.ts] info: Connected to database
+2023-08-30T14:23:46.732Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:28:08.591Z [db\index.ts] info: Connected to database
+2023-08-30T14:28:08.593Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:28:33.807Z [db\index.ts] info: Connected to database
+2023-08-30T14:28:33.809Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:29:37.447Z [db\index.ts] info: Connected to database
+2023-08-30T14:29:37.449Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:29:53.112Z [db\index.ts] info: Connected to database
+2023-08-30T14:29:53.114Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:30:10.476Z [db\index.ts] info: Connected to database
+2023-08-30T14:30:10.478Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:30:52.690Z [db\index.ts] info: Connected to database
+2023-08-30T14:30:52.692Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:30:53.826Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T14:31:06.621Z [db\index.ts] info: Connected to database
+2023-08-30T14:31:06.623Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:31:06.999Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T14:31:10.566Z [db\index.ts] info: Connected to database
+2023-08-30T14:31:10.568Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:31:10.931Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T14:53:03.138Z [db\index.ts] info: Connected to database
+2023-08-30T14:53:03.140Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T14:53:03.998Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T14:59:23.376Z [db\index.ts] info: Connected to database
+2023-08-30T14:59:23.378Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:02:16.790Z [db\index.ts] info: Connected to database
+2023-08-30T15:02:16.792Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:03:15.188Z [db\index.ts] info: Connected to database
+2023-08-30T15:03:15.190Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:03:15.711Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:03:50.173Z [db\index.ts] info: Connected to database
+2023-08-30T15:03:50.175Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:03:50.640Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:04:12.378Z [db\index.ts] info: Connected to database
+2023-08-30T15:04:12.380Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:04:12.822Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:05:59.216Z [db\index.ts] info: Connected to database
+2023-08-30T15:05:59.219Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:05:59.654Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:06:08.586Z [db\index.ts] info: Connected to database
+2023-08-30T15:06:08.588Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:06:09.123Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:29:16.441Z [db\index.ts] info: Connected to database
+2023-08-30T15:29:16.443Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:29:16.812Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:29:32.817Z [db\index.ts] info: Connected to database
+2023-08-30T15:29:32.819Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:29:33.242Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:30:11.351Z [db\index.ts] info: Connected to database
+2023-08-30T15:30:11.353Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:30:11.718Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:30:45.544Z [db\index.ts] info: Connected to database
+2023-08-30T15:30:45.546Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:30:45.926Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:31:34.955Z [db\index.ts] info: Connected to database
+2023-08-30T15:31:34.957Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:31:35.363Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:32:52.428Z [db\index.ts] info: Connected to database
+2023-08-30T15:32:52.430Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:32:53.623Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:33:51.022Z [db\index.ts] info: Connected to database
+2023-08-30T15:33:51.024Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:33:51.560Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:33:57.493Z [db\index.ts] info: Connected to database
+2023-08-30T15:33:57.495Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:33:58.006Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:37:38.896Z [db\index.ts] info: Connected to database
+2023-08-30T15:37:38.898Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:37:39.339Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:39:57.939Z [db\index.ts] info: Connected to database
+2023-08-30T15:39:57.941Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:39:58.332Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:40:55.970Z [db\index.ts] info: Connected to database
+2023-08-30T15:40:55.972Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:40:56.424Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:41:10.003Z [db\index.ts] info: Connected to database
+2023-08-30T15:41:10.005Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:41:10.492Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:41:26.850Z [db\index.ts] info: Connected to database
+2023-08-30T15:41:26.852Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:41:27.406Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T15:41:36.912Z [db\index.ts] info: Connected to database
+2023-08-30T15:41:36.914Z [src\server.ts] info: Server listening on port 4000
+2023-08-30T15:41:37.390Z [src\server.ts] info: Webhooks bootstrapped
+2023-08-30T17:10:42.036Z [db\index.js] info: Connected to database
+2023-08-30T17:10:42.038Z [dist\server.js] info: Server listening on port 4000
+2023-08-30T17:10:42.481Z [dist\server.js] info: Webhooks bootstrapped
+2023-08-30T19:29:20.541Z [db\index.js] info: Connected to database
+2023-08-30T19:29:20.544Z [dist\server.js] info: Server listening on port 4000
+2023-08-30T19:29:21.141Z [dist\server.js] info: Webhooks bootstrapped
+2023-08-30T19:32:40.263Z [db/index.js] info: Connected to database
+2023-08-30T19:32:40.265Z [dist/server.js] info: Server listening on port 4000
+2023-08-30T19:32:40.789Z [dist/server.js] info: Webhooks bootstrapped
+2023-08-30T19:33:35.960Z [db/index.js] info: Connected to database
+2023-08-30T19:33:35.962Z [dist/server.js] info: Server listening on port 4000
+2023-08-30T19:33:36.479Z [dist/server.js] info: Webhooks bootstrapped
+2023-08-30T19:35:30.843Z [db/index.js] info: Connected to database
+2023-08-30T19:35:30.845Z [dist/server.js] info: Server listening on port 4000
+2023-08-30T19:35:31.748Z [dist/server.js] info: Webhooks bootstrapped
