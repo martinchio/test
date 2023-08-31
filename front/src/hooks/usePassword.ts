@@ -3,10 +3,8 @@ import { useState, useEffect } from "react";
 const PASSWORD_KEY = "saved_password";
 
 function usePassword(): [string, React.Dispatch<React.SetStateAction<string>>] {
-  if (typeof window === "undefined") {
-    return ["", () => {}];
-  }
   const [password, setPassword] = useState<string>(() => {
+    if(typeof window === "undefined") return "";
     return localStorage.getItem(PASSWORD_KEY) || "";
   });
 

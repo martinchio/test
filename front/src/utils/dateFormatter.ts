@@ -11,7 +11,7 @@ export function dateFormatter(dateStr: string) {
   const date = new Date(dateStr);
 
   if (isToday(date)) {
-    return date.toLocaleTimeString();
+    return date.toLocaleTimeString().substring(0, 5);
   }
 
   const monthNames = [

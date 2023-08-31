@@ -1,12 +1,17 @@
-import React from "react";
 import { Email } from "@/types/email";
 import EmailRow from "./EmailRow";
 
-const EmailTable = ({ emails }: { emails: Email[] }) => {
+const EmailTable = ({
+  emails,
+  goToEmail,
+}: {
+  emails: Email[];
+  goToEmail: (_id: string) => void;
+}) => {
   return (
     <>
       {emails.map((email) => (
-        <EmailRow email={email} key={email._id} />
+        <EmailRow goToEmail={goToEmail} email={email} key={email._id} />
       ))}
     </>
   );

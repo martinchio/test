@@ -1,23 +1,29 @@
 "use client";
-import usePassword from "@/hooks/usePassword";
-import { useEffect } from "react";
+import { useCallback } from "react";
 import { useRouter } from "next/navigation";
 
-import Email from "@/components/Email/Email";
+import useRedirectIfNoPassword from "@/hooks/useRedirect";
+import Inbox from "@/components/Inbox/Inbox";
+import usePassword from "@/hooks/usePassword";
 
 export default function Home() {
+  useRedirectIfNoPassword();
+
   const [password] = usePassword();
   const router = useRouter();
 
-  if (!router) {
-    return null;
-  }
+  const goToEmail = useCallback(
+    (id: string) => {
+      router.push(`/email/${id}`);
+    },
+    [router],
+  );
 
-  useEffect(() => {
-    if (!password) {
-      router.push("/password");
-    }
-  }, [password, router]);
+  const goToCompose = useCallback(() => {
+    router.push(`/compose`);
+  }, [router]);
 
-  return <Email token={password} />;
+  return (
+    <Inbox goToEmail={goToEmail} goToCompose={goToCompose} token={password} />
+  );
 }

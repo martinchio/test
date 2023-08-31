@@ -1,5 +1,5 @@
-import { config } from 'dotenv'
-config()
+import { config } from "dotenv";
+config();
 
 export const {
   PORT,
@@ -8,5 +8,5 @@ export const {
   AUTH_API_KEY,
   WEBHOOK_URL,
   POSTMARK_USER,
-  POSTMARK_PASSWORD
-} = process.env
+  POSTMARK_PASSWORD,
+} = process.env;

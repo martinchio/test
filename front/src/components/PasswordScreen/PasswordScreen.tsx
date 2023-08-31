@@ -1,5 +1,6 @@
 "use client";
 import { useState } from "react";
+
 import usePassword from "@/hooks/usePassword";
 import { getEmails } from "@/services/email";
 import Button from "@/components/Generics/Button";
@@ -33,7 +34,7 @@ const PasswordComponent = ({ onSuccess }: { onSuccess: () => void }) => {
   };
 
   return (
-    <div className="flex flex-col items-center p-8 bg-white shadow-md rounded-md w-full max-w-md mx-auto mt-10 space-y-4">
+    <div className="flex flex-col items-center p-8 bg-white  w-full max-w-md mx-auto mt-10 space-y-4">
       <h2 className="text-xl font-semibold mb-4">Fill in Your Password</h2>
       <input
         type="password"

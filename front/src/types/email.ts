@@ -13,3 +13,10 @@ export type Email = {
   updatedAt: string;
   __v: number;
 };
+
+export type NewEmail = {
+  From: string;
+  To: string;
+  Subject: string;
+  TextBody: string;
+};

@@ -1,17 +1,24 @@
 import Spinner from "./Spinner";
 
 interface ButtonProps {
-  onClick: () => void;
+  onClick?: () => void;
   loading: boolean;
   children: React.ReactNode | string;
+  type?: "submit" | "button";
 }
 
-const Button: React.FC<ButtonProps> = ({ onClick, loading, children }) => {
+const Button: React.FC<ButtonProps> = ({
+  onClick,
+  loading,
+  children,
+  type,
+}) => {
   return (
     <button
       onClick={onClick}
       disabled={loading}
-      className={`px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600 ${
+      type={type}
+      className={`text-md font-semibold cursor-pointer px-4 py-2 bg-purple-200 rounded hover:bg-purple-30 ${
         loading ? "cursor-not-allowed" : "cursor-pointer"
       }`}
     >
