@@ -1,10 +1,7 @@
-
-import React from 'react'
+import React from "react";
 
 const EmailPage = () => {
-  return (
-    <div></div>
-  )
-}
+  return <div></div>;
+};
 
-export default EmailPage
+export default EmailPage;

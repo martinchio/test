@@ -1,8 +1,10 @@
 function isToday(date: Date) {
   const today = new Date();
-  return date.getDate() === today.getDate() &&
+  return (
+    date.getDate() === today.getDate() &&
     date.getMonth() === today.getMonth() &&
-    date.getFullYear() === today.getFullYear();
+    date.getFullYear() === today.getFullYear()
+  );
 }
 
 export function dateFormatter(dateStr: string) {
@@ -12,7 +14,19 @@ export function dateFormatter(dateStr: string) {
     return date.toLocaleTimeString();
   }
 
-  const monthNames = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
-    "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  const monthNames = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ];
   return `${monthNames[date.getMonth()]} ${date.getDate()}`;
 }

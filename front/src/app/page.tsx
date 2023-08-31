@@ -19,9 +19,5 @@ export default function Home() {
     }
   }, [password, router]);
 
-  return (
-    <main>
-      <Email token={password} />
-    </main>
-  );
+  return <Email token={password} />;
 }

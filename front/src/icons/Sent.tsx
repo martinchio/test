@@ -1,6 +1,6 @@
 function IconPaperPlane() {
   return (
-    <svg fill="none" viewBox="0 0 15 15" height="1em" width="1em" >
+    <svg fill="none" viewBox="0 0 15 15" height="1em" width="1em">
       <path
         fill="currentColor"
         fillRule="evenodd"
